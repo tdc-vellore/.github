@@ -12,6 +12,9 @@ A student-led community of blockchain enthusiasts, Tezos Developer's Community, 
 
 As a child organization of Tezos India, we promote the growth and adoption of the Tezos blockchain. Boredom is our enemy! You can have all the fun through workshops, hackathons, community projects, networking sessions and other fun events!
 
+You can view our other works at the [**TDC Vellore Glossary Repository**](https://github.com/tdc-vellore/glossary).
+
+
 ## Connect with us!
 
 [**🌐 Official Website**](https://tdc-vellore.carrd.co)
